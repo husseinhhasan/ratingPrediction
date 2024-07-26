@@ -1,5 +1,7 @@
 # Movie Rating Prediction Using Item-Based Collaborative Filtering (IBCF)
 
+![image](img.jpg)
+
 ## Idea and Purpose
 
 This project employs the Item-Based Collaborative Filtering (IBCF) algorithm to predict missing movie ratings in a given dataset. Such a technology is crucial for streaming services to enhance personalized user experiences through improved recommendation systems. By accurately predicting user preferences, the system can suggest movies that align closely with individual tastes, leading to higher user satisfaction and engagement.
