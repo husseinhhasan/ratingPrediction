@@ -21,20 +21,20 @@ The code is divided into two parts and a main script:
 ### Part One
 
 - **data.cpp and data.h**: 
-  - Purpose and content to be detailed.
+  - The purpose of data.cpp and data.h is to handle the reading and processing of the movie rating dataset. This involves reading the dataset from a file, counting the number of ratings each user has given, and the number of ratings each movie has received.
 
 - **top_users_movies.cpp and top_users_movies.h**: 
-  - Purpose and content to be detailed.
+  - The purpose of top_users_movies.cpp and top_users_movies.h is to identify and display the top 10 users and movies based on the number of ratings they have given or received. This helps to quickly understand the most active users and the most rated movies in the dataset.
 
 ### Part Two
 
 - **functions.cpp and functions.h**: 
-  - Purpose and content to be detailed.
+  - The purpose of functions.cpp and functions.h is to define and implement the functions needed to calculate similarities between movies and predict movie ratings based on the Item-Based Collaborative Filtering (IBCF) algorithm. These functions are essential for the prediction process in the main script.
 
 ### Main Script
 
 - **main.cpp**: 
-  - Purpose and content to be detailed.
+  - The main script orchestrates the entire process of reading data, processing it, predicting movie ratings using the Item-Based Collaborative Filtering (IBCF) algorithm, and outputting the results to a file.
 
 ## Results
 
