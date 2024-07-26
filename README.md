@@ -44,4 +44,4 @@ The results of the program, including predictions for each missing value of the 
 
 ## Evaluation
 
-The results were evaluated through a [Kaggle competetion]([URL](https://www.kaggle.com/competitions/cmp2003-rating-prediction/overview)) (now expired), and an accuracy of 0.98615 was achieved.
+The results were evaluated through a [Kaggle competetion](https://www.kaggle.com/competitions/cmp2003-rating-prediction/overview) (now expired), and an accuracy of 0.98615 was achieved.
